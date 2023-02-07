@@ -15,8 +15,9 @@ p{
     text-transform: capitalize;
     text-align: justify;
 }
+
 h2{
-    color:chartreuse;
-    font-size: 28px;
+    color:blueviolet;
+    font-size: 68px;
     font-weight: 700;
 }
