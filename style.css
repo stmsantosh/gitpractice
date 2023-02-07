@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    width: 100%;
+    font-size: 40px;
+    color: blueviolet;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 20px;
+    line-height: normal;
+    text-transform: capitalize;
+    text-align: justify;
+}
